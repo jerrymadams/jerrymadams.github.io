@@ -70,5 +70,5 @@ Cyber Security Analyst with over **12 years of IT experience**, including 6 year
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/iin/jerrymadamsjr) 
-[![Resume PDF](https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/your-username/jerry/blob/main/Jerry_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/iin/jerrymadamsjr)
+[![Resume PDF](https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https:/[/github.com/jerrymadams/je](https://github.com/jerrymadams/jerrymadams.github.io/blob/main/resume.pdf)
